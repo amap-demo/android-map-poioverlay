@@ -8,10 +8,10 @@ PoiOverlay开源代码及调用
 - 工程基于3D地图SDK实现
 
 ##效果展示##
-![Screenshot]( https://github.com/amap-demo/android-map-poioverlay/raw/master/apk/picture.png )
+![Screenshot]( https://github.com/amap-demo/android-map-poioverlay/raw/master/apk/picture.jpg )
 
 ## 扫一扫安装##
-![Screenshot]( https://github.com/amap-demo/android-map-poioverlay/raw/master/apk/1480320135.png )
+![Screenshot]( https://github.com/amap-demo/android-map-poioverlay/raw/master/apk/1480388082.png )
 
 ## 使用方法##
 ###1:配置搭建AndroidSDK工程###
